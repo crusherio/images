@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>acoustic</string>
+	<string>alternative</string>
+	<string>ambient</string>
+	<string>blues</string>
+	<string>bluegrass</string>
+	<string>chill-wave</string>
+	<string>classical</string>
+	<string>country</string>
+	<string>disco</string>
+	<string>downtempo</string>
+	<string>dream-pop</string>
+	<string>dubstep</string>
+	<string>electro</string>
+	<string>electronic</string>
+	<string>electronica</string>
+	<string>emo</string>
+	<string>folk</string>
+	<string>female-vocalists</string>
+	<string>funk</string>
+	<string>hardcore</string>
+	<string>hip-hop</string>
+	<string>house</string>
+	<string>indie</string>
+	<string>indie-pop</string>
+	<string>jazz</string>
+	<string>latin</string>
+	<string>lo-fi</string>
+	<string>metal</string>
+	<string>minimal</string>
+	<string>pop</string>
+	<string>post-punk</string>
+	<string>punk</string>
+	<string>rap</string>
+	<string>reggae</string>
+	<string>rnb</string>
+	<string>rock</string>
+	<string>shoegaze</string>
+	<string>soul</string>
+	<string>synth-pop</string>
+	<string>techno</string>
+	<string>trance</string>
+	<string>trip-hop</string>
+	<string>world</string>
+	<string>60s</string>
+	<string>70s</string>
+	<string>80s</string>
+	<string>90s</string>
+</array>
+</plist>
